@@ -1,0 +1,48 @@
+from One import *
+l=['A','B','C','D','a','b','c','d']
+def Game(Domain):
+    Domain_Questions=Domain_Ques[Domain]
+    score = 0
+    for i in Domain_Questions:
+        flag=0
+        for j in i:
+            if flag == 0:
+                if len(j)==4:
+                    for k in j:
+                        print(k)
+                        flag=1
+                else:
+                    print(j)
+        alpha=input("Enter Your Answer:")
+        while alpha not in l:
+            print("choose the option Correctly!")
+            alpha=input("Enter Your Answer:")
+        if alpha=='A'or alpha=='a':
+            answer=0;flag=1
+        elif alpha=='B' or alpha=='b':
+            answer=1;flag=1
+        elif alpha=='C' or alpha=='c':
+            answer=2;flag=1
+        elif alpha=='D' or alpha=='d':
+            answer=3
+        if i[1][answer][2:]==i[2]:
+            print("Correct")
+            score=score+1
+        else:
+            print(i[2][3:],'is the Answer')
+        print()
+    return score
+
+def DisplayScore(Score):
+    print("The Game Is Over For Now!")
+    print(f"Your Score Is {Score}")
+
+print("\n\t\t\tWELCOME TO QUIZ GAME")
+print("First Select the Domain,In Which You To Play The Game.")
+print("\nDOMAINS:\n1.Technology\n2.Basic Aptitude\n3.Indian History\n4.Programming\n5.General Knowledge")
+Domain=int(input("Enter The Domain Number:"))
+print("Now The Game will Start,After Completion the Score will be displayed!")
+score=Game(Domain-1)
+print("The Game Is Over For Now!")
+print(f"Your Score Is {score}")
+print("Thanks For Playing")
