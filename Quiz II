@@ -1,0 +1,73 @@
+from One import *
+from random import randint
+score1=0
+score2=0
+print('\t\t----------------------------------------')
+print("\t\t-------------- WELCOME TO --------------")
+print("\t\t----------- QUIZ RANDOM GAME -----------")
+print('\t\t----------------------------------------')
+print("In This Game there are 10 Random Questions That Covers the Areas of \nTechnology, Basic Aptitude, Indian History, Programming, General Knowledge")
+print("Instructions:")
+print("- U Will Won,If you Score more Than 70% According to the Answers!")
+print("- Score will be the Average Of Length of your correct Answer Words by Length of All Answer Words Of Your questions")
+print('\t------------------------------------------------------')
+print("\t\t\t\t\t\tAll The BeSt")
+print('\t------------------------------------------------------')
+l=['A','B','C','D','a','b','c','d']
+Answers=[]
+MainFlag=1
+while MainFlag==1:
+    Answers=[]
+    while len(Answers)!=10:
+        question_number=randint(1,len(NormalQuestions))-1
+        if question_number not in Answers:
+            QuestionSet=NormalQuestions[question_number]
+            Answers.append(question_number)
+            Options=QuestionSet[1]
+            print(f"{len(Answers)}.{QuestionSet[0]}")
+            for Option in Options:
+                print(Option)
+            alpha=input("Enter your Answer:")
+            while alpha not in l:
+                print("choose the option Correctly!")
+                alpha = input("Enter Your Answer:")
+            if alpha == 'A' or alpha == 'a':
+                answer = 0;
+                flag = 1
+            elif alpha == 'B' or alpha == 'b':
+                answer = 1;
+                flag = 1
+            elif alpha == 'C' or alpha == 'c':
+                answer = 2;
+                flag = 1
+            elif alpha == 'D' or alpha == 'd':
+                answer = 3
+            if QuestionSet[1][answer][2:] == QuestionSet[2]:
+                print("Correct")
+                score1 = score1 + len(QuestionSet[2])
+            else:
+                print(QuestionSet[2][3:], 'is the Answer')
+            print()
+    print(f"Score:{score1/10}")
+    print("Game Ended")
+    n=input("\nWant to Play Again(Y/N):")
+    MainFlag=9
+    while MainFlag==9:
+        if n=='Y'or n=='y':
+            MainFlag=1
+            print('\t\t----------------------------------------')
+            print("\t\t-------------- WELCOME TO --------------")
+            print("\t\t----------- QUIZ RANDOM GAME -----------")
+            print('\t\t----------------------------------------')
+            print("You Have Already Read The Instructions,So Start Let Us Start the Game!\n")
+            print('\t------------------------------------------------------')
+            print("\t\t\t\t\t\tAll The BeSt")
+            print('\t------------------------------------------------------')
+        elif n=='N' or n=='n':
+            print('\t------------------------------------------------------')
+            print("\t---------------- THANKS FOR PLAYING ------------------")
+            print('\t------------------------------------------------------')
+            MainFlag=0
+        else:
+            print("Choose Correctly")
+            n = input("Want to Play Again(Y/N):")
