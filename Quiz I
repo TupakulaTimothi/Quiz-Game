@@ -1,4 +1,4 @@
-from One import *
+from Questions import *
 l=['A','B','C','D','a','b','c','d']
 def Game(Domain):
     Domain_Questions=Domain_Ques[Domain]
