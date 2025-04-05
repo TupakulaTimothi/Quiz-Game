@@ -1,0 +1,609 @@
+Domain_Ques=[
+[
+    ['1. Which of the following is not a programming language?',
+     ['- A) Python', '- B) Java', '- C) HTML', '- D) C++'],
+     'C) HTML'
+    ],
+    ['2. What does CPU stand for?',
+     ['- A) Central Processing Unit', '- B) Central Performance Unit', '- C) Computer Personal Unit', '- D) Central Peripheral Unit'],
+     'A) Central Processing Unit'
+    ],
+    ['3. Which of the following is an example of an input device?',
+     ['- A) Monitor', '- B) Keyboard', '- C) Printer', '- D) Speaker'],
+     'B) Keyboard'
+    ],
+    ['4. In which year was the World Wide Web introduced to the public?',
+     ['- A) 1989', '- B) 1991', '- C) 1993', '- D) 1995'],
+     'B) 1991'
+    ],
+    ['5. Which of the following companies developed the Android operating system?',
+     ['- A) Apple', '- B) Microsoft', '- C) Google', '- D) IBM'],
+     'C) Google'
+    ],
+    ['6. What does RAM stand for?',
+     ['- A) Random Access Memory', '- B) Read Access Memory', '- C) Run Access Memory', '- D) Randomize Access Memory'],
+     'A) Random Access Memory'
+    ],
+    ['7. Which of the following is not a type of computer network?',
+     ['- A) LAN', '- B) WAN', '- C) PAN', '- D) FAN'],
+     'D) FAN'
+    ],
+    ['8. What is the primary purpose of an operating system?',
+     ['- A) To manage computer hardware and software resources', '- B) To create content', '- C) To process data', '- D) To provide internet access'],
+     'A) To manage computer hardware and software resources'
+    ],
+    ['9. Who is known as the father of the computer?',
+     ['- A) Alan Turing', '- B) Charles Babbage', '- C) John von Neumann', '- D) Steve Jobs'],
+     'B) Charles Babbage'
+    ],
+    ['10. What does HTTP stand for?',
+     ['- A) HyperText Transfer Protocol', '- B) HyperText Transmission Protocol', '- C) HighText Transfer Protocol', '- D) HighText Transmission Protocol'],
+     'A) HyperText Transfer Protocol'
+    ]
+],
+[
+    ['1. If a train travels at a speed of 60 km/h for 1.5 hours, how far does it travel?',
+     ['- A) 60 km', '- B) 90 km', '- C) 100 km', '- D) 120 km'],
+     'B) 90 km'
+    ],
+    ['2. What is the next number in the sequence: 2, 4, 8, 16, ...?',
+     ['- A) 20', '- B) 24', '- C) 30', '- D) 32'],
+     'D) 32'
+    ],
+    ['3. If the area of a square is 64 square meters, what is the length of one side?',
+     ['- A) 6 meters', '- B) 8 meters', '- C) 10 meters', '- D) 12 meters'],
+     'B) 8 meters'
+    ],
+    ['4. What is the value of x in the equation: 3x + 5 = 14?',
+     ['- A) 2', '- B) 3', '- C) 4', '- D) 5'],
+     'B) 3'
+    ],
+    ['5. If a person can complete a job in 6 hours, how much of the job is completed in 4 hours?',
+     ['- A) 1/3', '- B) 2/3', '- C) 3/4', '- D) 4/5'],
+     'B) 2/3'
+    ],
+    ['6. A man walked 3 km west, then 4 km north. What is the shortest distance to his starting point?',
+     ['- A) 5 km', '- B) 6 km', '- C) 7 km', '- D) 8 km'],
+     'A) 5 km'
+    ],
+    ['7. If a sum of money doubles itself in 5 years at simple interest, what is the rate of interest per annum?',
+     ['- A) 15%', '- B) 18%', '- C) 20%', '- D) 25%'],
+     'C) 20%'
+    ],
+    ['8. The average of five numbers is 18. If one number is excluded, the average becomes 16. What is the excluded number?',
+     ['- A) 20', '- B) 25', '- C) 30', '- D) 35'],
+     'C) 30'
+    ],
+    ['9. A box contains 3 red balls, 4 green balls, and 5 blue balls. What is the probability of drawing a green ball?',
+     ['- A) 1/3', '- B) 1/4', '- C) 1/5', '- D) 1/6'],
+     'A) 1/3'
+    ],
+    ['10. If a car travels 150 km in 3 hours, what is its average speed?',
+     ['- A) 45 km/h', '- B) 50 km/h', '- C) 55 km/h', '- D) 60 km/h'],
+     'D) 60 km/h'
+    ]
+]
+    ,
+[
+    ['1. Who was the first President of India?',
+     ['- A) Dr. Rajendra Prasad', '- B) Dr. Sarvepalli Radhakrishnan', '- C) Dr. Zakir Husain', '- D) Dr. Shankar Dayal Sharma'],
+     'A) Dr. Rajendra Prasad'
+    ],
+    ['2. Which is the longest river in India?',
+     ['- A) Ganga', '- B) Yamuna', '- C) Brahmaputra', '- D) Godavari'],
+     'A) Ganga'
+    ],
+    ['3. In which year did India gain independence from British rule?',
+     ['- A) 1945', '- B) 1947', '- C) 1950', '- D) 1952'],
+     'B) 1947'
+    ],
+    ["4. Which state is known as the 'Land of Rising Sun' in India?",
+     ['- A) Kerala', '- B) Sikkim', '- C) Arunachal Pradesh', '- D) Assam'],
+     'C) Arunachal Pradesh'
+    ],
+    ['5. What is the capital of Maharashtra?',
+     ['- A) Mumbai', '- B) Pune', '- C) Nagpur', '- D) Nashik'],
+     'A) Mumbai'
+    ],
+    ["6. Which Indian city is known as the 'Silicon Valley of India'?",
+     ["- A) Hyderabad", "- B) Mumbai", '- C) Chennai', '- D) Bengaluru'],
+     'D) Bengaluru'
+    ],
+    ['7. What is the national animal of India?',
+     ['- A) Peacock', '- B) Elephant', '- C) Bengal Tiger', '- D) Lion'],
+     'C) Bengal Tiger'
+    ],
+    ["8. Who wrote the Indian national anthem 'Jana Gana Mana'?",
+     ['- A) Rabindranath Tagore', '- B) Bankim Chandra Chatterjee', '- C) Sarojini Naidu', '- D) Subhash Chandra Bose'],
+     'A) Rabindranath Tagore'
+    ],
+    ['9. Which is the largest state in India by area?',
+     ['- A) Maharashtra', '- B) Rajasthan', '- C) Uttar Pradesh', '- D) Madhya Pradesh'],
+     'B) Rajasthan'
+    ],
+    ['10. Which Indian freedom fighter is known for his slogan "Give me blood, and I shall give you freedom"?',
+     ['- A) Mahatma Gandhi', '- B) Jawaharlal Nehru', '- C) Subhash Chandra Bose', '- D) Bhagat Singh'],
+     'C) Subhash Chandra Bose'
+    ]
+],
+[
+    ['1. Who was the first President of India?',
+     ['- A) Dr. Rajendra Prasad', '- B) Dr. Sarvepalli Radhakrishnan', '- C) Dr. Zakir Husain', '- D) Dr. Shankar Dayal Sharma'],
+     'A) Dr. Rajendra Prasad'
+    ],
+    ['2. Which is the longest river in India?',
+     ['- A) Ganga', '- B) Yamuna', '- C) Brahmaputra', '- D) Godavari'],
+     'A) Ganga'
+    ],
+    ['3. In which year did India gain independence from British rule?',
+     ['- A) 1945', '- B) 1947', '- C) 1950', '- D) 1952'],
+     'B) 1947'
+    ],
+    ["4. Which state is known as the 'Land of the Rising Sun' in India?",
+     ['- A) Kerala', '- B) Sikkim', '- C) Arunachal Pradesh', '- D) Assam'],
+     'C) Arunachal Pradesh'
+    ],
+    ['5. What is the capital of Maharashtra?',
+     ['- A) Mumbai', '- B) Pune', '- C) Nagpur', '- D) Nashik'],
+     'A) Mumbai'
+    ],
+    ["6. Which Indian city is known as the 'Silicon Valley of India'?",
+     ['- A) Hyderabad', '- B) Mumbai', '- C) Chennai', '- D) Bengaluru'],
+     'D) Bengaluru'
+    ],
+    ['7. What is the national animal of India?',
+     ['- A) Peacock', '- B) Elephant', '- C) Bengal Tiger', '- D) Lion'],
+     'C) Bengal Tiger'
+    ],
+    ["8. Who wrote the Indian national anthem 'Jana Gana Mana'?",
+     ['- A) Rabindranath Tagore', '- B) Bankim Chandra Chatterjee', '- C) Sarojini Naidu', '- D) Subhash Chandra Bose'],
+     'A) Rabindranath Tagore'
+    ],
+    ['9. Which is the largest state in India by area?',
+     ['- A) Maharashtra', '- B) Rajasthan', '- C) Uttar Pradesh', '- D) Madhya Pradesh'],
+     'B) Rajasthan'
+    ],
+    ['10. Which Indian freedom fighter is known for his slogan "Give me blood, and I shall give you freedom"?',
+     ['- A) Mahatma Gandhi', '- B) Jawaharlal Nehru', '- C) Subhash Chandra Bose', '- D) Bhagat Singh'],
+     'C) Subhash Chandra Bose'
+    ]
+],
+[
+    ['1. What is the national flower of India?',
+     ['- A) Rose', '- B) Lotus', '- C) Sunflower', '- D) Marigold'],
+     'B) Lotus'
+    ],
+    ['2. Who among the following is known as the "Father of the Indian Constitution"?',
+     ['- A) Mahatma Gandhi', '- B) Jawaharlal Nehru', '- C) Dr. B.R. Ambedkar', '- D) Sardar Patel'],
+     'C) Dr. B.R. Ambedkar'
+    ],
+    ['3. Which planet is known as the "Red Planet"?',
+     ['- A) Earth', '- B) Mars', '- C) Jupiter', '- D) Venus'],
+     'B) Mars'
+    ],
+    ['4. What is the capital of Australia?',
+     ['- A) Sydney', '- B) Melbourne', '- C) Canberra', '- D) Brisbane'],
+     'C) Canberra'
+    ],
+    ['5. Who invented the light bulb?',
+     ['- A) Nikola Tesla', '- B) Thomas Edison', '- C) Alexander Graham Bell', '- D) Isaac Newton'],
+     'B) Thomas Edison'
+    ],
+    ['6. What is the currency of Japan?',
+     ['- A) Yuan', '- B) Yen', '- C) Won', '- D) Ringgit'],
+     'B) Yen'
+    ],
+    ['7. Which is the smallest continent by land area?',
+     ['- A) Europe', '- B) Australia', '- C) Antarctica', '- D) South America'],
+     'B) Australia'
+    ],
+    ['8. Who wrote the play "Romeo and Juliet"?',
+     ['- A) William Shakespeare', '- B) Charles Dickens', '- C) Jane Austen', '- D) Mark Twain'],
+     'A) William Shakespeare'
+    ],
+    ['9. What is the chemical symbol for water?',
+     ['- A) O2', '- B) CO2', '- C) H2O', '- D) HO2'],
+     'C) H2O'
+    ],
+    ['10. Who was the first man to walk on the moon?',
+     ['- A) Yuri Gagarin', '- B) Neil Armstrong', '- C) Buzz Aldrin', '- D) Michael Collins'],
+     'B) Neil Armstrong'
+    ]
+]
+]
+
+
+NormalQuestions=[
+    ['Which of the following is not a programming language?',
+     ['- A) Python', '- B) Java', '- C) HTML', '- D) C++'],
+     'C) HTML'
+     ],
+    ["Which Indian city is known as the 'Silicon Valley of India'?",
+     ["- A) Hyderabad", "- B) Mumbai", '- C) Chennai', '- D) Bengaluru'],
+     'D) Bengaluru'
+     ],
+    ['What does CPU stand for?',
+     ['- A) Central Processing Unit', '- B) Central Performance Unit', '- C) Computer Personal Unit',
+      '- D) Central Peripheral Unit'],
+     'A) Central Processing Unit'
+     ],
+    ['Which of the following is an example of an input device?',
+     ['- A) Monitor', '- B) Keyboard', '- C) Printer', '- D) Speaker'],
+     'B) Keyboard'
+     ],
+    ['In which year was the World Wide Web introduced to the public?',
+     ['- A) 1989', '- B) 1991', '- C) 1993', '- D) 1995'],
+     'B) 1991'
+     ],
+    ['What does RAM stand for?',
+     ['- A) Random Access Memory', '- B) Read Access Memory', '- C) Run Access Memory', '- D) Randomize Access Memory'],
+     'A) Random Access Memory'
+     ],
+    ['What is the next number in the sequence: 2, 4, 8, 16, ...?',
+     ['- A) 20', '- B) 24', '- C) 30', '- D) 32'],
+     'D) 32'
+     ],
+    ['Which of the following is not a type of computer network?',
+     ['- A) LAN', '- B) WAN', '- C) PAN', '- D) FAN'],
+     'D) FAN'
+     ],
+    ['What is the primary purpose of an operating system?',
+     ['- A) To manage computer hardware and software resources', '- B) To create content', '- C) To process data',
+      '- D) To provide internet access'],
+     'A) To manage computer hardware and software resources'
+     ],
+    ['Who is known as the father of the computer?',
+     ['- A) Alan Turing', '- B) Charles Babbage', '- C) John von Neumann', '- D) Steve Jobs'],
+     'B) Charles Babbage'
+     ],
+    ['If a train travels at a speed of 60 km/h for 1.5 hours, how far does it travel?',
+     ['- A) 60 km', '- B) 90 km', '- C) 100 km', '- D) 120 km'],
+     'B) 90 km'
+     ],
+    ['If the area of a square is 64 square meters, what is the length of one side?',
+     ['- A) 6 meters', '- B) 8 meters', '- C) 10 meters', '- D) 12 meters'],
+     'B) 8 meters'
+     ],
+    ['Which of the following companies developed the Android operating system?',
+     ['- A) Apple', '- B) Microsoft', '- C) Google', '- D) IBM'],
+     'C) Google'
+     ],
+    ['What is the value of x in the equation: 3x + 5 = 14?',
+     ['- A) 2', '- B) 3', '- C) 4', '- D) 5'],
+     'B) 3'
+     ],
+    ['If a person can complete a job in 6 hours, how much of the job is completed in 4 hours?',
+     ['- A) 1/3', '- B) 2/3', '- C) 3/4', '- D) 4/5'],
+     'B) 2/3'
+     ],
+    ['A man walked 3 km west, then 4 km north. What is the shortest distance to his starting point?',
+     ['- A) 5 km', '- B) 6 km', '- C) 7 km', '- D) 8 km'],
+     'A) 5 km'
+     ],
+    ['Which Indian freedom fighter is known for his slogan "Give me blood, and I shall give you freedom"?',
+     ['- A) Mahatma Gandhi', '- B) Jawaharlal Nehru', '- C) Subhash Chandra Bose', '- D) Bhagat Singh'],
+     'C) Subhash Chandra Bose'
+     ],
+    ['If a sum of money doubles itself in 5 years at simple interest, what is the rate of interest per annum?',
+     ['- A) 15%', '- B) 18%', '- C) 20%', '- D) 25%'],
+     'C) 20%'
+     ],
+    ['The average of five numbers is 18. If one number is excluded, the average becomes 16. What is the excluded number?',
+        ['- A) 20', '- B) 25', '- C) 30', '- D) 35'],
+        'C) 30'
+        ],
+    ['Who was the first woman to win a Nobel Prize?',
+     ['- A) Marie Curie', '- B) Mother Teresa', '- C) Rosalind Franklin', '- D) Jane Goodall'],
+     'A) Marie Curie'
+    ],
+    ['A box contains 3 red balls, 4 green balls, and 5 blue balls. What is the probability of drawing a green ball?',
+     ['- A) 1/3', '- B) 1/4', '- C) 1/5', '- D) 1/6'],
+     'A) 1/3'
+     ],
+    ['Who was the first President of India?',
+     ['- A) Dr. Rajendra Prasad', '- B) Dr. Sarvepalli Radhakrishnan', '- C) Dr. Zakir Husain',
+      '- D) Dr. Shankar Dayal Sharma'],
+     'A) Dr. Rajendra Prasad'
+     ],
+    ['Which is the longest river in India?',
+     ['- A) Ganga', '- B) Yamuna', '- C) Brahmaputra', '- D) Godavari'],
+     'A) Ganga'
+     ],
+    ['In which year did India gain independence from British rule?',
+     ['- A) 1945', '- B) 1947', '- C) 1950', '- D) 1952'],
+     'B) 1947'
+     ],
+    ["Which state is known as the 'Land of Rising Sun' in India?",
+     ['- A) Kerala', '- B) Sikkim', '- C) Arunachal Pradesh', '- D) Assam'],
+     'C) Arunachal Pradesh'
+     ],
+    ['What is the capital of Maharashtra?',
+     ['- A) Mumbai', '- B) Pune', '- C) Nagpur', '- D) Nashik'],
+     'A) Mumbai'
+     ],
+    ['What is the national animal of India?',
+     ['- A) Peacock', '- B) Elephant', '- C) Bengal Tiger', '- D) Lion'],
+     'C) Bengal Tiger'
+     ],
+    ['If a car travels 150 km in 3 hours, what is its average speed?',
+     ['- A) 45 km/h', '- B) 50 km/h', '- C) 55 km/h', '- D) 60 km/h'],
+     'D) 60 km/h'
+     ],
+    ["Who wrote the Indian national anthem 'Jana Gana Mana'?",
+     ['- A) Rabindranath Tagore', '- B) Bankim Chandra Chatterjee', '- C) Sarojini Naidu', '- D) Subhash Chandra Bose'],
+     'A) Rabindranath Tagore'
+     ],
+    ['Which is the largest state in India by area?',
+     ['- A) Maharashtra', '- B) Rajasthan', '- C) Uttar Pradesh', '- D) Madhya Pradesh'],
+     'B) Rajasthan'
+     ],
+    ['What does HTTP stand for?',
+     ['- A) HyperText Transfer Protocol', '- B) HyperText Transmission Protocol', '- C) HighText Transfer Protocol',
+      '- D) HighText Transmission Protocol'],
+     'A) HyperText Transfer Protocol'
+     ],
+    ['What is the national flower of India?',
+     ['- A) Rose', '- B) Lotus', '- C) Sunflower', '- D) Marigold'],
+     'B) Lotus'
+    ],
+    [' Who among the following is known as the "Father of the Indian Constitution"?',
+     ['- A) Mahatma Gandhi', '- B) Jawaharlal Nehru', '- C) Dr. B.R. Ambedkar', '- D) Sardar Patel'],
+     'C) Dr. B.R. Ambedkar'
+    ],
+    [' Which planet is known as the "Red Planet"?',
+     ['- A) Earth', '- B) Mars', '- C) Jupiter', '- D) Venus'],
+     'B) Mars'
+    ],
+    [' What is the capital of Australia?',
+     ['- A) Sydney', '- B) Melbourne', '- C) Canberra', '- D) Brisbane'],
+     'C) Canberra'
+    ],
+    [' Who invented the light bulb?',
+     ['- A) Nikola Tesla', '- B) Thomas Edison', '- C) Alexander Graham Bell', '- D) Isaac Newton'],
+     'B) Thomas Edison'
+    ],
+    [' What is the currency of Japan?',
+     ['- A) Yuan', '- B) Yen', '- C) Won', '- D) Ringgit'],
+     'B) Yen'
+    ],
+    [' Which is the smallest continent by land area?',
+     ['- A) Europe', '- B) Australia', '- C) Antarctica', '- D) South America'],
+     'B) Australia'
+    ],
+    [' Who wrote the play "Romeo and Juliet"?',
+     ['- A) William Shakespeare', '- B) Charles Dickens', '- C) Jane Austen', '- D) Mark Twain'],
+     'A) William Shakespeare'
+    ],
+    [' What is the chemical symbol for water?',
+     ['- A) O2', '- B) CO2', '- C) H2O', '- D) HO2'],
+     'C) H2O'
+    ],
+    [' Who was the first man to walk on the moon?',
+     ['- A) Yuri Gagarin', '- B) Neil Armstrong', '- C) Buzz Aldrin', '- D) Michael Collins'],
+     'B) Neil Armstrong'
+    ],
+    ['Which is the tallest mountain in the world?',
+     ['- A) K2', '- B) Kangchenjunga', '- C) Lhotse', '- D) Mount Everest'],
+     'D) Mount Everest'
+    ],
+    ['Who is the author of "Harry Potter" series?',
+     ['- A) J.R.R. Tolkien', '- B) J.K. Rowling', '- C) George R.R. Martin', '- D) Suzanne Collins'],
+     'B) J.K. Rowling'
+    ],
+    ['What is the capital city of France?',
+     ['- A) Berlin', '- B) Madrid', '- C) Paris', '- D) Rome'],
+     'C) Paris'
+    ],
+    ['Who painted the Mona Lisa?',
+     ['- A) Vincent van Gogh', '- B) Pablo Picasso', '- C) Leonardo da Vinci', '- D) Claude Monet'],
+     'C) Leonardo da Vinci'
+    ],
+    ['What is the largest ocean on Earth?',
+     ['- A) Atlantic Ocean', '- B) Indian Ocean', '- C) Arctic Ocean', '- D) Pacific Ocean'],
+     'D) Pacific Ocean'
+    ],
+    ['Who developed the theory of relativity?',
+     ['- A) Isaac Newton', '- B) Albert Einstein', '- C) Galileo Galilei', '- D) Niels Bohr'],
+     'B) Albert Einstein'
+    ],
+    ['What is the smallest planet in our solar system?',
+     ['- A) Mercury', '- B) Venus', '- C) Earth', '- D) Mars'],
+     'A) Mercury'
+    ],
+    ['Which element has the chemical symbol "O"?',
+     ['- A) Oxygen', '- B) Osmium', '- C) Oganesson', '- D) Oxalate'],
+     'A) Oxygen'
+    ],
+    ['Who discovered penicillin?',
+     ['- A) Marie Curie', '- B) Alexander Fleming', '- C) Louis Pasteur', '- D) Edward Jenner'],
+     'B) Alexander Fleming'
+    ],
+    ['What is the longest river in the world?',
+     ['- A) Amazon River', '- B) Nile River', '- C) Yangtze River', '- D) Mississippi River'],
+     'B) Nile River'
+    ],
+    ['Which planet is known as the "Morning Star" or "Evening Star"?',
+     ['- A) Mercury', '- B) Venus', '- C) Mars', '- D) Jupiter'],
+     'B) Venus'
+    ],
+    ['What is the main language spoken in Brazil?',
+     ['- A) Spanish', '- B) Portuguese', '- C) French', '- D) English'],
+     'B) Portuguese'
+    ],
+    ['What is the most widely spoken language in the world?',
+     ['- A) English', '- B) Spanish', '- C) Mandarin Chinese', '- D) Hindi'],
+     'C) Mandarin Chinese'
+    ],
+    ['Which gas is most abundant in the Earth’s atmosphere?',
+     ['- A) Oxygen', '- B) Hydrogen', '- C) Carbon Dioxide', '- D) Nitrogen'],
+     'D) Nitrogen'
+    ],
+    ['Who was the first person to reach the South Pole?',
+     ['- A) Robert Peary', '- B) Roald Amundsen', '- C) Ernest Shackleton', '- D) Robert Scott'],
+     'B) Roald Amundsen'
+    ],
+    ['What is the hardest natural substance on Earth?',
+     ['- A) Gold', '- B) Iron', '- C) Diamond', '- D) Platinum'],
+     'C) Diamond'
+    ],
+    ['Who wrote the novel "1984"?',
+     ['- A) George Orwell', '- B) Aldous Huxley', '- C) Ray Bradbury', '- D) J.D. Salinger'],
+     'A) George Orwell'
+    ],
+    ['What is the chemical formula for table salt?',
+     ['- A) NaCl', '- B) KCl', '- C) CaCO3', '- D) MgSO4'],
+     'A) NaCl'
+    ],
+    ['Who was the first Secretary-General of the United Nations?',
+     ['- A) Trygve Lie', '- B) Dag Hammarskjöld', '- C) U Thant', '- D) Kurt Waldheim'],
+     'A) Trygve Lie'
+    ],
+    ['What is the process of finding and fixing bugs in software called?',
+     ['- A) Compiling', '- B) Debugging', '- C) Executing', '- D) Testing'],
+     'B) Debugging'
+    ],
+    ['Which country has the largest population in the world?',
+     ['- A) India', '- B) United States', '- C) China', '- D) Russia'],
+     'C) China'
+    ],
+    ['What does HTML stand for?',
+     ['- A) HyperText Markup Language', '- B) HomeTool Markup Language', '- C) Hyperlinks and Text Markup Language', '- D) Hyper Technical Markup Language'],
+     'A) HyperText Markup Language'
+    ],
+    ['Which planet in our solar system is known for its rings?',
+     ['- A) Mars', '- B) Jupiter', '- C) Saturn', '- D) Uranus'],
+     'C) Saturn'
+    ],
+    ['What is the primary function of a web browser?',
+     ['- A) To create documents', '- B) To store data', '- C) To access and display web pages', '- D) To edit images'],
+     'C) To access and display web pages'
+    ],
+    ['Who invented the World Wide Web?',
+     ['- A) Bill Gates', '- B) Steve Jobs', '- C) Tim Berners-Lee', '- D) Larry Page'],
+     'C) Tim Berners-Lee'
+    ],
+    ['What is the largest planet in our solar system?',
+     ['- A) Earth', '- B) Mars', '- C) Jupiter', '- D) Saturn'],
+     'C) Jupiter'
+    ],
+    ['In Python, what keyword is used to define a function?',
+     ['- A) func', '- B) def', '- C) function', '- D) define'],
+     'B) def'
+    ],
+    ['What is the capital city of Italy?',
+     ['- A) Venice', '- B) Rome', '- C) Milan', '- D) Florence'],
+     'B) Rome'
+    ],
+    ['Which programming language is known as the backbone of web development?',
+     ['- A) JavaScript', '- B) Python', '- C) Java', '- D) C++'],
+     'A) JavaScript'
+    ],
+    ['Who wrote the novel "Pride and Prejudice"?',
+     ['- A) Charles Dickens', '- B) Emily Brontë', '- C) Jane Austen', '- D) Mark Twain'],
+     'C) Jane Austen'
+    ],
+    ['Which is the smallest prime number?',
+     ['- A) 1', '- B) 2', '- C) 3', '- D) 5'],
+     'B) 2'
+    ],
+    ['Who is known as the "Father of Modern Physics"?',
+     ['- A) Isaac Newton', '- B) Albert Einstein', '- C) Galileo Galilei', '- D) Niels Bohr'],
+     'B) Albert Einstein'
+    ],
+    ['Which element is represented by the chemical symbol "He"?',
+     ['- A) Hydrogen', '- B) Helium', '- C) Hafnium', '- D) Holmium'],
+     'B) Helium'
+    ],
+    ['What is the capital of Japan?',
+     ['- A) Tokyo', '- B) Kyoto', '- C) Osaka', '- D) Hiroshima'],
+     'A) Tokyo'
+    ],
+    ['Which language is primarily used for Android app development?',
+     ['- A) Swift', '- B) Kotlin', '- C) Objective-C', '- D) JavaScript'],
+     'B) Kotlin'
+    ],
+    ['Who was the first woman to win a Nobel Prize in Physics?',
+     ['- A) Marie Curie', '- B) Rosalind Franklin', '- C) Dorothy Hodgkin', '- D) Lise Meitner'],
+     'A) Marie Curie'
+    ],
+    ['Which Indian festival is known as the "Festival of Lights"?',
+     ['- A) Holi', '- B) Diwali', '- C) Dussehra', '- D) Raksha Bandhan'],
+     'B) Diwali'
+    ],
+    ['Who is the current Prime Minister of India? (As of 2023)',
+     ['- A) Manmohan Singh', '- B) Narendra Modi', '- C) Rahul Gandhi', '- D) Arvind Kejriwal'],
+     'B) Narendra Modi'
+    ],
+    ['What is the smallest unit of an element that retains the properties of that element?',
+     ['- A) Molecule', '- B) Atom', '- C) Proton', '- D) Electron'],
+     'B) Atom'
+    ],
+    ['Which country is known as the "Land of the Rising Sun"?',
+     ['- A) China', '- B) Japan', '- C) South Korea', '- D) Thailand'],
+     'B) Japan'
+    ],
+    ['What is the chemical symbol for gold?',
+     ['- A) Au', '- B) Ag', '- C) Fe', '- D) Cu'],
+     'A) Au'
+    ],
+    ['Who invented the telephone?',
+     ['- A) Alexander Graham Bell', '- B) Thomas Edison', '- C) Nikola Tesla', '- D) Guglielmo Marconi'],
+     'A) Alexander Graham Bell'
+    ],
+    ['What is the capital of Canada?',
+     ['- A) Toronto', '- B) Ottawa', '- C) Vancouver', '- D) Montreal'],
+     'B) Ottawa'
+    ],
+    ['Which organ is responsible for pumping blood throughout the human body?',
+     ['- A) Lungs', '- B) Liver', '- C) Brain', '- D) Heart'],
+     'D) Heart'
+    ],
+    ['Which planet is known as the "Blue Planet"?',
+     ['- A) Mars', '- B) Earth', '- C) Neptune', '- D) Uranus'],
+     'B) Earth'
+    ],
+    ['What is the hardest known mineral?',
+     ['- A) Diamond', '- B) Ruby', '- C) Sapphire', '- D) Emerald'],
+     'A) Diamond'
+    ],
+    ['What is the main component of the sun?',
+     ['- A) Oxygen', '- B) Nitrogen', '- C) Hydrogen', '- D) Carbon'],
+     'C) Hydrogen'
+    ],
+    ['Which is the longest bone in the human body?',
+     ['- A) Tibia', '- B) Femur', '- C) Humerus', '- D) Radius'],
+     'B) Femur'
+    ],
+    ['Who was the first woman to fly solo across the Atlantic Ocean?',
+     ['- A) Amelia Earhart', '- B) Valentina Tereshkova', '- C) Sally Ride', '- D) Bessie Coleman'],
+     'A) Amelia Earhart'
+    ],
+    ['What is the largest organ in the human body?',
+     ['- A) Heart', '- B) Liver', '- C) Skin', '- D) Lungs'],
+     'C) Skin'
+    ],
+    ['Who wrote the play "Hamlet"?',
+     ['- A) William Shakespeare', '- B) Charles Dickens', '- C) Jane Austen', '- D) Mark Twain'],
+     'A) William Shakespeare'
+    ],
+    ['Which planet has the most moons?',
+     ['- A) Earth', '- B) Mars', '- C) Jupiter', '- D) Saturn'],
+     'C) Jupiter'
+    ],
+    ['What is the capital of Egypt?',
+     ['- A) Cairo', '- B) Alexandria', '- C) Giza', '- D) Luxor'],
+     'A) Cairo'
+    ],
+    ['Who was the first President of the United States?',
+     ['- A) John Adams', '- B) Thomas Jefferson', '- C) George Washington', '- D) James Madison'],
+     'C) George Washington'
+    ],
+    ['What is the primary language spoken in Spain?',
+     ['- A) French', '- B) Italian', '- C) Portuguese', '- D) Spanish'],
+     'D) Spanish'
+    ],
+    ['Which element is known as the "King of Chemicals"?',
+     ['- A) Nitrogen', '- B) Sulfur', '- C) Oxygen', '- D) Hydrogen'],
+     'D) Hydrogen'
+    ]
+]
